@@ -1,0 +1,13 @@
+.search {
+    font-size: 12px;
+    margin: 30px auto;
+    display: block;
+    width: 605px;
+    height: 40px;
+    border: solid rgb(235, 229, 229);
+    border-radius: 5px;
+}
+
+::placeholder {
+    color: rgb(179, 170, 170);
+}
